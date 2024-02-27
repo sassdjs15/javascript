@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background: rgba(137, 43, 226, 0.537);
+  }
+
+  input {
+    padding: 5px;
+    margin: 18px;
+
+  }
+
+  #h1{
+    color: rgb(75, 4, 105);
+    margin-top: 5rem;
+}
+
+.aling{
+    margin-top: 6rem;
+}

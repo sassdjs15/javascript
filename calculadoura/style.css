@@ -1,0 +1,15 @@
+body{
+    color:blueviolet;
+    background: rgba(128, 0, 128, 0.43);
+}
+
+
+input {
+    width: 50px;
+  }
+
+.centro{
+    text-align: center;
+    margin-top: 10rem;
+
+}

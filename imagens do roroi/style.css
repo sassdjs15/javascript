@@ -1,0 +1,22 @@
+.carousel-item img{
+    margin-top: 5%;
+       width: 50%;
+     height: 300px;
+     object-fit: contain;
+   }
+   body{
+       background: rgba(137, 43, 226, 0.586);
+   background-repeat: no-repeat;
+   background-position: absolute;
+   background-size: 100%;
+   color: rgb(41, 2, 72);
+ 
+   }
+
+  .text-centermy-5{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  text-align: center;
+  margin-top: 4%;
+
+}
+
